@@ -1,7 +1,6 @@
 {
   "name": "expresssolo",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indiemacmac/Express_solo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/indiemacmac/Express_solo/issues"
+  },
+  "homepage": "https://github.com/indiemacmac/Express_solo#readme",
+  "description": ""
 }
